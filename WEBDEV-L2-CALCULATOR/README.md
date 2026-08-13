@@ -137,11 +137,7 @@ While building this project, I learned how to:
 
 ## Screenshots
 
-Add your project screenshot to the repository and use the following:
-
-```markdown
 ![Calculator Screenshot](CalculatorSS.png)
-```
 
 ## Author
 
