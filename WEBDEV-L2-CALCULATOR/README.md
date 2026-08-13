@@ -53,12 +53,6 @@ git clone https://github.com/your-username/calculator.git
 | Multiplication | `5 × 3 = 15` |
 | Division       | `15 ÷ 3 = 5` |
 
-## 📸 Screenshot
-
-```markdown
-![Calculator Screenshot](screenshot.png)
-```
-
 ## 🎯 Project Objective
 
 The objective of this project is to build a simple and interactive calculator while practicing:
@@ -71,4 +65,4 @@ The objective of this project is to build a simple and interactive calculator wh
 
 ## 👨‍💻 Author
 
-**Your Name**
+**BADANI HEMANTH KUMAR**
