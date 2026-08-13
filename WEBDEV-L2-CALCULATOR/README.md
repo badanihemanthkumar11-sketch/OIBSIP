@@ -55,8 +55,6 @@ git clone https://github.com/your-username/calculator.git
 
 ## 📸 Screenshot
 
-Add your calculator screenshot here:
-
 ```markdown
 ![Calculator Screenshot](screenshot.png)
 ```
